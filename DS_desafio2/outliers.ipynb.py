@@ -1,3 +1,10 @@
+{
+ "cells": [],
+ "metadata": {},
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
+
 def proceso_quitar_outliers(parametro_data):
 
 
